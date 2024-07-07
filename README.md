@@ -7,6 +7,9 @@ It is developed using Java Servlets and JSP, with HTML and Bootstrap for the fro
 The application allows users to add new students, view a list of students, update student information,
 and delete student records.
 
+## Demo Video
+[Watch the project demo]([https://www.example.com](https://drive.google.com/file/d/1a_fTmU7AGMGF6084hrpyXk-rf46xTo49/view))
+
 ## Features
 
 - Add new students
